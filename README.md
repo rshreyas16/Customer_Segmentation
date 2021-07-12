@@ -8,5 +8,5 @@ The goal of segmenting cutomers is to decide how to relate to customers in each 
 This process helps company to increase sales and therby increasing profit.
 
 ## Clustering Algoritm :
-This project uses Unsupervised ML algorithm (i.e) K-Means Clustering algorithm.
+This project uses Unsupervised ML algorithm (i.e) K-Means Clustering algorithm to segment the customers.
 
